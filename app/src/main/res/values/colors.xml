@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F9A825</color>
+    <color name="colorPrimaryDark">#F57F17</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="splashscreen_background">#FF8F00</color>
+    <color name="splashFont">#E65100</color>
+    <color name="blackFont">#000000</color>
+    <color name="whiteFont">#FFFFFF</color>
+    <color name="nor_btn_back">#FFE082</color>
+    <color name="question_background">#FFAB40</color>
+</resources>
